@@ -17,3 +17,9 @@ git commit -m "udated"
 git push origin main
 
 '''
+
+## Enviornment creation command
+
+conda create -n USVISA python =3.8 -y
+conda activate USVISA
+pip install -r requirements.txt
