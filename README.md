@@ -6,6 +6,7 @@
 4. anaconda
 flowchart-https://whimsical.com/
 MLOps Tool: https://www.evidentlyai.com/
+MongoDB:https://account.mongodb.com/account/login
 
 ## Git command
 
